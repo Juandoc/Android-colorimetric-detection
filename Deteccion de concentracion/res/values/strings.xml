@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" textsize="14dp" ><nobr>Análisis de concetración</nobr></string>
+    <string name="open_camara" textsize="14dp"><nobr>Recortar Imagen</nobr></string>
+    <string name="color_compensado" textsize="14dp"><nobr>Color compensado (neg)</nobr></string>
+    <string name="color_muestra" textsize="14dp"><nobr>Color muestra</nobr></string>
+    <string name="blanco_de_referencia" textsize="14dp"><nobr>Blanco referencia (pos)</nobr></string>
+    <string name="colorimetria" textsize="14dp" ><nobr>Colorimetria</nobr></string>
+    <string name="analisis_cuantitativo" textsize="14dp" ><nobr>Análisis cuantitativo</nobr></string>
+    <string name="mgl" textsize="14dp" ><nobr>mg/L</nobr></string>
+    <string name="RBG">(R: 0,G: 0,B: 0)</string>
+    <string name="Concentracion">Concentración</string>
+    <string name="data_para_carga">Aquí iran los datos</string>
+
+    <string name="button_salir">Volver</string>
+    <string name="add_button_text">Añadir</string>
+    <string name="item_editText_hint">Conc. M^-7</string>
+    <string name="item_red">R</string>
+    <string name="item_blue">B</string>
+    <string name="item_green">G</string>
+
+    <string name="Carga_color">Concentración/ Color</string>
+    <string name="item_concentracionMoles">Conc: </string>
+    <string name="item_Moles">M^-7 </string>
+    <string name="item_R_color"> R: </string>
+    <string name="item_B_color">B: </string>
+    <string name="item_G_color">G: </string>
+    <string name="borr">Borrar último </string>
+
+    <string name="result_image_desc">Cortar resultado</string>
+    <string name="main_button_select_image">Seleccionar imagen</string>
+    <string name="main_activity_desciption">Actividad para cortar imagen.</string>
+
+
+    <string name="tab1">RGB</string>
+    <string name="tab2">HSV</string>
+    <string name="tab3">|V|G|ABS</string>
+    <string name="tab4">Result:</string>
+</resources>

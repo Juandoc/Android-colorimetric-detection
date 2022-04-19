@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".test">
+
+    <item
+        android:id="@+id/clip"
+        android:title="Clip_image"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/water"
+        android:title="Watershed"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/circles"
+        android:title="Hough_circles"
+        app:showAsAction="never" />
+</menu>
