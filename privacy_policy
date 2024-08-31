@@ -1,0 +1,26 @@
+Privacy Policy
+
+Last Updated: 8/31/2024
+
+Your privacy is important to us. This Privacy Policy describes how we collect, use, and protect the personal information generated or collected through the use of the colorimetry application ("CHOLORIMETRIX"). By using the App, you agree to the practices described in this Privacy Policy.
+
+1. Information We Collect
+1.1 Use of the Camera
+
+The App uses the android.permission.CAMERA permission to access your device's camera. This access is necessary to capture images of samples for the purpose of analyzing and determining their colorimetry.
+We do not collect, store, or share any images or data captured by the camera for purposes other than colorimetric analysis. The captured images are processed locally on your device and are not transmitted to external servers.
+2. How We Use the Information
+The images captured by the camera are used solely to perform colorimetric analysis and determine the concentration of the unknown sample based on its color.
+We do not use the camera for any other purpose, nor do we access it without your explicit knowledge and consent.
+3. Sharing Information
+The App does not share any personal information or captured images with third parties. All processing operations are performed locally on your device.
+4. Information Security
+We take reasonable measures to protect the information processed by the App against unauthorized access, alteration, disclosure, or destruction.
+Since images are not transmitted to external servers, no encryption in transit is required, as all information remains on the user's device.
+5. Changes to This Privacy Policy
+We reserve the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page.
+You are advised to review this Privacy Policy periodically to stay informed of any changes.
+6. Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:
+
+Email: juandoctorovich@gmail.com
